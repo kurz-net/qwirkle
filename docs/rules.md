@@ -52,8 +52,3 @@ completed chain.
 
 The player who plays the last hand is awarded an additional 6 points - for ending
 the fun for everyone.
-
-## Examples
-
-Let's show a couple of examples
-
