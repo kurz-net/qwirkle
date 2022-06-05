@@ -19,9 +19,32 @@ tiles left in the bag.
 Players take turns laying down tiles from their hand, until the first person
 has used all their tiles and is unable to restock their hand.
 
-Unless it is the first move of the game, a player must always connect to another
-tile when making their move.
-
 The following rules apply when laying down tiles:
 - Connected tiles must be of the same color and not repeat symbols in their row or column
 - Connected tiles must be of different color and the same symbol in their row or column.
+- At least one tile must connect to another tile (unless it is the first move of the game)
+- You can only lay down tiles in one direction (vertically or horizontally)
+
+After a player has layed down their tiles he is awarded a number of points through
+the following system. We sum up the number of tiles of all the rows and columns
+the layed down tiles connect to.
+
+![Circle](/assets/circle.svg)
+![Flower](/assets/flower.svg)
+![Square](/assets/square.svg)
+For example, if the player just layed down the square tile, they are awarded 3 points.
+
+![Circle](/assets/circle.svg)
+![Flower](/assets/flower.svg)
+![Square](/assets/square.svg)
+
+![Flower](/assets/flower.svg)
+![Square](/assets/square.svg)
+
+The player who plays the last hand is awarded an additional 6 points - for ending
+the fun for everyone.
+
+## Examples
+
+Let's show a couple of examples
+
