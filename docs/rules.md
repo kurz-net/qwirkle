@@ -46,6 +46,10 @@ For example, if the player just layed down the square tile, they are awarded 3 p
 If the player layed down the square tile here, they will be awarded 4 (2x2) points.
 <br /> <br />
 
+If a player completes a chain of tiles, by containing every symbol or every color,
+they receive double the points for that row or column. So 12 points for every
+completed chain.
+
 The player who plays the last hand is awarded an additional 6 points - for ending
 the fun for everyone.
 
