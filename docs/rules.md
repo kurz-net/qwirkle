@@ -32,11 +32,12 @@ the layed down tiles connect to.
 ![Circle](/assets/circle.svg)
 ![Flower](/assets/flower.svg)
 ![Square](/assets/square.svg)
+
 For example, if the player just layed down the square tile, they are awarded 3 points.
 
 ![Circle](/assets/circle.svg)
 ![Flower](/assets/flower.svg)
-![Square](/assets/square.svg)
+![Ocothorb](/assets/octothorb.svg)
 
 ![Flower](/assets/flower.svg)
 ![Square](/assets/square.svg)
