@@ -34,7 +34,7 @@ the layed down tiles connect to (including the ones just layed down).
 ![Square](/assets/square.svg)
 
 For example, if the player just layed down the square tile, they are awarded 3 points.
-<br />
+<br /> <br />
 
 ![Circle](/assets/circle.svg)
 ![Flower](/assets/flower.svg)
@@ -44,7 +44,7 @@ For example, if the player just layed down the square tile, they are awarded 3 p
 ![Square](/assets/square.svg)
 
 If the player layed down the square tile here, they will be awarded 4 (2x2) points.
-<br />
+<br /> <br />
 
 The player who plays the last hand is awarded an additional 6 points - for ending
 the fun for everyone.
