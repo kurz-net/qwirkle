@@ -1,3 +1,10 @@
+export const COLORS: Color[] = [
+  "red", "blue", "green", "yellow", "orange", "violet"
+]
+
+export const SHAPES: Shape[] = [
+  "circle", "flower", "octothorb", "spiked", "square", "star"
+]
 
 export type Color =
   "red" | "blue" | "green" | "yellow" | "orange" | "violet"
